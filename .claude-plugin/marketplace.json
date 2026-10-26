@@ -1,0 +1,14 @@
+{
+  "name": "learning-tools",
+  "description": "Skills for active learning",
+  "owner": {
+    "name": "Joseph Uhlar"
+  },
+  "plugins": [
+    {
+      "name": "learning-skills",
+      "source": "./plugins/learning-skills",
+      "description": "Quizzes, Socratic tutoring, interactive demos, traffic-light topic mapping and case-study practice."
+    }
+  ]
+}
