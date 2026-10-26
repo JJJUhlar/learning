@@ -1,5 +1,8 @@
 {
   "name": "active-learning-skills",
   "version": "1.0.0",
-  "description": "Skills for active learning: quizzes, Socratic tutoring, interactive demos, traffic-light topic mapping and case-study practice."
+  "description": "Skills for avoiding brain rot through active learning.",
+  "author": {
+    "name": "Joseph Uhlar"
+  }
 }
