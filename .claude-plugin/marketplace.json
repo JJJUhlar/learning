@@ -8,7 +8,7 @@
     {
       "name": "learning-skills",
       "source": "./plugins/learning-skills",
-      "description": "Quizzes, Socratic tutoring, interactive demos, traffic-light topic mapping and case-study practice."
+      "description": "Skills for avoiding brain rot through active learning."
     }
   ]
 }
