@@ -7,7 +7,7 @@
     "url": "https://github.com/JJJUhlar"
   },
   "repository": "https://github.com/JJJUhlar/learning",
-  "icon": "./icon.png",
+  "icon": "./.claude-plugin/icon.png",
   "keywords": [
     "learning",
     "active-learning",
