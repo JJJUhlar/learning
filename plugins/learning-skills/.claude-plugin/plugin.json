@@ -1,7 +1,8 @@
 {
   "name": "active-learning-skills",
   "version": "1.0.0",
-  "description": "Skills for avoiding brain rot through active learning.",
+  "displayName": "Active Learning Skills",
+  "description": "Skills for avoiding brain rot through active learning and desirable difficulty.",
   "author": {
     "name": "Joseph Uhlar",
     "url": "https://github.com/JJJUhlar"
