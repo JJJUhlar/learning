@@ -3,6 +3,26 @@
   "version": "1.0.0",
   "description": "Skills for avoiding brain rot through active learning.",
   "author": {
-    "name": "Joseph Uhlar"
-  }
+    "name": "Joseph Uhlar",
+    "url": "https://github.com/JJJUhlar"
+  },
+  "repository": "https://github.com/JJJUhlar/learning",
+  "icon": "./icon.png",
+  "keywords": [
+    "learning",
+    "active-learning",
+    "education",
+    "study",
+    "quiz",
+    "retrieval-practice",
+    "socratic",
+    "tutoring",
+    "self-assessment",
+    "case-studies",
+    "brain rot",
+    "improvement",
+    "self improvement",
+    "studying",
+    "exam"
+  ]
 }
